@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>List Types</title>
+</head>
+</body>
+<h1>ORDERED,UNORDERED LISTS</h1>
+<ul>
+<li>B.TECH-AI,ML</li>
+<li>B.TECH-CSE</li>
+</ul>
+<ol>
+<li>B.TECH-AI,ML</li>
+<li>B.TECH-CSE</li>
+</ol>
+<h2>DEFINATION LIST:</h2>
+<dl>
+<dt>RAM</dt>
+<dd>Random access memory</dd>
+<dt>CPU</dt>
+<dd>central processing unit</dd>
+</dl>
+</body>
+</html>
